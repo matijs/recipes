@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+  	"format": "prettier --check src/"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
