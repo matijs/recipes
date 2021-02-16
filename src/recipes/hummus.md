@@ -2,8 +2,7 @@
 title: Hummus
 ingredients:
   - 120g dried chickpeas
-  - 3-4 cloves of garlic
-  - 1 large bay leaf
+  - 1-2 cloves of garlic
   - salt
   - 2-3 tbsp tahini
   - black pepper
@@ -16,15 +15,20 @@ spoons of salt. Soak overnight in the fridge.
 
 The next day, poor off the water and rinse the chickpeas.
 
-Bring the chickpeas, the cloves of garlic and the bay leaf to the boil in 500ml
-of water. Do not add any extra salt. Let this simmer for about an hour. Then
-pour off the water and set it aside, it's needed in the next step.
+Bring the chickpeas to the boil in 500ml of water. Do not add any extra salt.
+Let this simmer for about an hour. Then drain the water and set it aside as it's
+needed in the next step.
 
-Remove the bay leaf. Set some chickpeas aside to use as garnish. Put the
-remaining chickpeas and garlic in a food processor. Add a few table spoons of
-tahini and enough of the chickpea water for the food processor to do its thing.
-You can add water, you can't take it out. Add a couple of grinds of fresh black
-pepper and blend to a creamy mixture.
+Put some chickpeas to the side to use as garnish. Put the remaining chickpeas
+and pealed garlic in a food processor. Add a few table spoons of tahini and
+enough of the chickpea water you set aside earlier for the food processor to do
+its thing. You can add water, you can't take it out. Add a couple of grinds of
+fresh black pepper and blend to a creamy mixture.
 
-Garnish the dish with the chickpeas you set aside before and a drizzle some nice
+Garnish the dish with the chickpeas you put to the side and drizzle some nice
 olive oil over the top.
+
+## Changelog
+
+- Don't add garlic and bayleaf when boiling the chickpeas
+- Add raw garlic to the food processor
