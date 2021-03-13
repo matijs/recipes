@@ -1,9 +1,10 @@
 ---
 title: Naan
-serves: 4
+serves: 2
 ingredients:
-  - 300g self-raising flour
-  - 200g yoghurt
+  - 150g plain flour
+  - 100g yoghurt
+  - a quarter teaspoon of baking soda
   - a splash of water
   - a dash of olive oil
   - good pinch of salt
@@ -28,3 +29,8 @@ with naan biscuits. Cook them, about 3 minutes on each side, in the cast iron
 pan or the oven.
 
 Enjoy!
+
+## Changelog
+
+- Use plain flour + baking soda instead of self-raising flour
+- Adjust quantities to serve 2 instead of 4
