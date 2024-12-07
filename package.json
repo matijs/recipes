@@ -4,6 +4,6 @@
     "format": "prettier --check src"
   },
   "devDependencies": {
-    "prettier": "^3.4.1"
+    "prettier": "^3.4.2"
   }
 }
